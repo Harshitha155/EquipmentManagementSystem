@@ -1,0 +1,6 @@
+@BorrowService_HostAddress = http://localhost:5252
+
+GET {{BorrowService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
